@@ -1,6 +1,8 @@
 #!/bin/bash
-git checkout md-source
-git pull origin md-source
+# 执行前 先手动把md-source的更新push到GitHub上去
+# 后期在完善脚本 判断是否有更新 自动push到md-source分支上
+#git checkout md-source
+#git pull origin md-source
 cd doc/book
 
 gitbook install
@@ -10,6 +12,7 @@ gitbook build
 cd ../..
 
 # checkout to the gh-pages branch
+git stash
 git checkout master
 
 # pull the latest updates

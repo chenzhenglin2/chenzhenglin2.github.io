@@ -1,0 +1,23 @@
+{
+  "title": "陈正林的工作站",
+  "description": "陈正林日常知识汇总",
+  "author": "陈正林",
+  "plugins": [
+    "-lunr",
+    "-search",
+    "search-pro",
+    "ancre-navigation",
+    "popup",
+    "expandable-chapters",
+    "code",
+    "splitter",
+    "prism"
+  ],
+  "pluginsConfig": {
+    "prism": {
+      "css": [
+        "prismjs/themes/prism-tomorrow.css"
+      ]
+    }
+  }
+}

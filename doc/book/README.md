@@ -1,3 +1,4 @@
-# 博客简介：
+- **[技术博客(点击进入)](zhenglin2.work)**
 
-本人从事多年测试和运维相关的工作
+- www.zhenglin2.work 内容暂时空缺，若有对www.zhenglin2.work域名感兴趣，也可以联系我，631782068@qq.com
+

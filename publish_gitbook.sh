@@ -12,7 +12,7 @@ gitbook build
 cd ../..
 
 # checkout to the gh-pages branch
-git stash
+# git stash
 git checkout master
 
 # pull the latest updates

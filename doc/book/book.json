@@ -1,7 +1,7 @@
 {
-  "title": "陈正林的工作站",
-  "description": "陈正林日常知识汇总",
-  "author": "陈正林",
+  "title": "志云的工作站",
+  "description": "各种优秀博客引导页面",
+  "author": "志云",
   "plugins": [
     "-lunr",
     "-search",
